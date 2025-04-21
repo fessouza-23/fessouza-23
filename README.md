@@ -1,14 +1,21 @@
-# 😁 Hi There, I'm Fessouza!
+# 😁 Hi there, I'm Fessouza!
 
 ### About Me
 
-My name is João V F Souza, but I go by the nickname Fessouza (a combination of the first two letters of Fernandes, one of my last names, with Souza). Currently, I am studying Information Systems at Unesp Bauru, and I started in 2023. I completed my high school education at ETEC (State Technical School) in Bauru, where I obtained a Technical degree in Systems Development. I am really proud to have studied at ETEC because it changed my mindset and gave me a path to start a career in IT. If possible, I would appreciate it if you could go to my repositories and check out my favorite project about color blindness in websites. 
+My name is João V. F. Souza — but around here, I go by **Fessouza** (a mix of *Fernandes* and *Souza*).  
+I'm currently studying **Information Systems at UNESP Bauru** (since 2023), and I hold a **Technical degree in Systems Development** from **ETEC Bauru** — a place that really helped shape my mindset and kicked off my journey into tech. 🚀
+
+If you get a chance, check out my favorite project — it's all about improving web accessibility for people with color blindness. I’d love to hear your feedback!
 
 <b>Seeya!</b>
 
-- 🌱 I'm currently taking courses in HTML, CSS, and Javascript | studying C at Unesp
-- 💬 Ask me about my favorite project
-- 📫 How to reach me: joao.fessouza@gmail.com
+- 🌱 Currently working with **Help Desk**
+- 💻 Diving deep into the **Spring Framework**
+- 🔧 Exploring full stack development using **Spring (Java)** on the backend and **Node.js** for other projects
+- 💬 Ask me about my accessibility project!
+- 📫 Reach me at: **jvf.souza@unesp.br**
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -17,7 +24,8 @@ My name is João V F Souza, but I go by the nickname Fessouza (a combination of 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
