@@ -1,4 +1,4 @@
-# 😎 Yo, I'm Fessouza!
+# 😎 I'm Fessouza!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2&link=https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
 [![Email](https://img.shields.io/badge/Email-jvf.souza@unesp.br-red?style=flat&logo=gmail&logoColor=white)](mailto:jvf.souza@unesp.br)
@@ -18,7 +18,7 @@ One of my favorite creations? A web accessibility project focused on color blind
 ### 🔧 What I’m Working On
 
 - 🌐 Diving into **full stack dev** using **Spring** + **Node.js**
-- 🧠 Studying **Java**, **C**, and software architecture at UNESP
+- 🧠 Studying **Java**,software engineer at UNESP
 - ‧💻˚ Building better UIs with **Bootstrap** and **Bulma**
 - 💬 Always open to talk tech, code, and accessibility
 - 📬 Reach me at: **jvf.souza@unesp.br**
