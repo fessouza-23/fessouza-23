@@ -1,31 +1,33 @@
-# 😁 Hi there, I'm Fessouza!
+# 😎 I'm Fessouza!
 
-### About Me
+### Who am I?
 
-My name is João V. F. Souza — but around here, I go by **Fessouza** (a mix of *Fernandes* and *Souza*).  
-I'm currently studying **Information Systems at UNESP Bauru** (since 2023), and I hold a **Technical degree in Systems Development** from **ETEC Bauru** — a place that really helped shape my mindset and kicked off my journey into tech. 🚀
+I'm João V. F. Souza — aka **Fessouza** (it's a mashup of *Fernandes* and *Souza*).  
+Currently grinding through a **Bachelor’s in Information Systems @ UNESP Bauru** (since 2023) and proudly holding a **Technical degree in Systems Development** from **ETEC Bauru** — shoutout to the place that flipped the switch and got me hyped about tech. 💡
 
-If you get a chance, check out my favorite project — it's all about improving web accessibility for people with color blindness. I’d love to hear your feedback!
-
-<b>Seeya!</b>
-
-- 🌱 Currently working with **Help Desk**
-- 💻 Diving deep into the **Spring Framework**
-- 🔧 Exploring full stack development using **Spring (Java)** on the backend and **Node.js** for other projects
-- 💬 Ask me about my accessibility project!
-- 📫 Reach me at: **jvf.souza@unesp.br**
+One of the projects I’m most proud of is all about making the web more accessible for people with color blindness. If you're into frontend, UX, or just curious — go check it out!
 
 ---
 
-### 🧰 Languages and Tools
+### 🧠 What I’m up to
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+- 📚 Learning more about **Node.js** and building out projects with it  
+- 🌱 Deep-diving into **Spring Framework** and Java backend at UNESP  
+- 🔄 Exploring full stack development — mixing **Spring**, **Node.js**, and some cool UI stuff with **Bootstrap** and **Bulma**
+- 💬 Always down to talk dev stuff (especially accessibility)!
+- 📫 You can find me at: **jvf.souza@unesp.br**
+
+---
+
+### 🛠️ Stack & Tools I Use
+
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Bulma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<br /><br />
