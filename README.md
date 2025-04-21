@@ -1,37 +1,47 @@
-<details>
-<summary><strong>🇺🇸 English</strong></summary>
-
 # 😎 Yo, I'm Fessouza!
 
-### Who am I?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2&link=https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
+[![Email](https://img.shields.io/badge/Email-jvf.souza@unesp.br-red?style=flat&logo=gmail&logoColor=white)](mailto:jvf.souza@unesp.br)
 
-I'm João V. F. Souza — aka **Fessouza** (a mashup of *Fernandes* and *Souza*).  
-Currently studying **Information Systems at UNESP Bauru** (since 2023).  
-Proud graduate of **ETEC Bauru**, where my tech journey began. 🚀
+---
 
-- 🌐 Learning full stack with **Spring** + **Node.js**
-- 🎨 UI with **Bootstrap** and **Bulma**
-- 📬 Contact: **jvf.souza@unesp.br**
+### 👨‍💻 About Me
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
+Hey! I'm João V. F. Souza — aka **Fessouza** (a nickname crafted from *Fernandes* + *Souza*).  
+Currently leveling up as an **Information Systems student at UNESP Bauru** (since 2023).  
+Before that, I earned a **Technical Degree in Systems Development** at **ETEC Bauru** — the place that sparked my passion for tech. 🚀
 
-</details>
+One of my favorite creations? A web accessibility project focused on color blindness — making the internet a bit more inclusive. 💡
 
-<details>
-<summary><strong>🇧🇷 Português</strong></summary>
+---
 
-# 😎 E aí! Eu sou o Fessouza!
+### 🔧 What I’m Working On
 
-### Quem sou eu?
+- 🌐 Diving into **full stack dev** using **Spring** + **Node.js**
+- 🧠 Studying **Java**, **C**, and software architecture at UNESP
+- ‧💻˚ Building better UIs with **Bootstrap** and **Bulma**
+- 💬 Always open to talk tech, code, and accessibility
+- 📬 Reach me at: **jvf.souza@unesp.br**
 
-Me chamo João V. F. Souza — mais conhecido como **Fessouza** (mistura de *Fernandes* com *Souza*).  
-Atualmente curso **Sistemas de Informação na UNESP Bauru** (desde 2023)  
-e sou formado técnico em **Desenvolvimento de Sistemas pela ETEC Bauru**, onde tudo começou. 🚀
+---
 
-- 🌐 Estudando desenvolvimento full stack com **Spring** + **Node.js**
-- 🎨 Interface com **Bootstrap** e **Bulma**
-- 📬 Contato: **jvf.souza@unesp.br**
+### 🧰 Tech Stack & Tools
 
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="Bulma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br /><br />
 
-</details>
+---
+
+### ⚡ Let’s Connect
+
+Want to collaborate, share ideas or just chat about tech?  
+📧 **jvf.souza@unesp.br**  
+🔗 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
