@@ -1,93 +1,120 @@
-# 😎 I'm Fessouza!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=0A66C2&link=https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
-[![Email](https://img.shields.io/badge/Email-jvf.souza@unesp.br-red?style=flat&logo=gmail&logoColor=white)](mailto:jvf.souza@unesp.br)
-[![GitHub](https://img.shields.io/badge/GitHub-Fessouza-181717?style=flat&logo=github)](https://github.com/fessouza)
+# 😎 Eu sou o João!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvf.souza@unesp.br)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fessouza)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Sobre Mim
 
-Hey! I'm João V. F. Souza — aka **Fessouza** (a nickname crafted from *Fernandes* + *Souza*).  
+Olá! Eu sou **João V. F. Souza** — user **Fessouza** (apelido criado a partir de *Fernandes* + *Souza*).
 
-Currently leveling up as an **Information Systems student at UNESP Bauru** (since 2023) and gaining hands-on experience as an **intern specializing in PHP and jQuery development**. 🚀
+🎓 **Estudante de Sistemas de Informação na UNESP Bauru** (desde 2023)  
+💼 **Estagiário em desenvolvimento PHP e jQuery**  
+🎯 **Técnico em Desenvolvimento de Sistemas pela ETEC Bauru**
 
-Before that, I earned a **Technical Degree in Systems Development** at **ETEC Bauru** — the place that sparked my passion for tech and laid the foundation for my programming journey.
-
-One of my favorite creations? A **web accessibility project focused on color blindness** — making the internet a bit more inclusive, one pixel at a time. 💡
-
----
-
-### 🔧 What I'm Working On
-
-- 💼 **Currently interning** with **PHP** and **jQuery** development
-- 🌐 Diving deep into **full stack development** using **Spring** + **Node.js**
-- 🧠 Studying **Java** and software engineering principles at UNESP
-- 💻 Building better, responsive UIs with **Bootstrap** and **Bulma**
-- 🎯 Focusing on **web accessibility** and inclusive design practices
-- 💬 Always open to talk tech, code, accessibility, and best practices
-- 📬 Reach me at: **jvf.souza@unesp.br**
+Sou apaixonado por tecnologia e desenvolvimento web, com foco especial em **acessibilidade digital**. Um dos meus projetos favoritos foi uma aplicação web voltada para daltonismo — tornando a internet mais inclusiva para todos! 🌈
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 💻 O que estou fazendo
 
-**Frontend & UI:**
-<br />
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Bulma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-<br /><br />
+<table>
+<tr>
+<td width="50%">
 
-**Backend & Databases:**
-<br />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br /><br />
+### 🔥 Atualmente
+- 💼 **Estagiando** com **PHP** e **jQuery**
+- 🌐 Aprofundando em **desenvolvimento full stack**
+- 🧠 Estudando **Java** e engenharia de software
+- 🎨 Criando UIs responsivas com **Bootstrap** e **Bulma**
 
-**Programming Languages:**
-<br />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<br /><br />
+</td>
+<td width="50%">
 
-**Tools & Environment:**
-<br />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<br /><br />
+### 🎯 Focos Principais
+- 🔍 **Acessibilidade Web**
+- ⚡ **Interfaces Dinâmicas**
+- 📱 **Design Responsivo**
+- 🔧 **Integração Full Stack**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎯 Current Focus
+## 🛠️ Minhas Tecnologias
 
-- 🔥 **PHP Development**: Building robust backend solutions and APIs
-- ⚡ **jQuery Mastery**: Creating dynamic, interactive user interfaces
-- 🌍 **Web Accessibility**: Ensuring inclusive design for all users
-- 📱 **Responsive Design**: Mobile-first approach with modern frameworks
-- 🔧 **Full Stack Integration**: Connecting frontend and backend seamlessly
+<div align="center">
+
+### Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Banco de Dados
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Linguagens & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🎨 Áreas de Especialização
 
-![Fessouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fessouza&show_icons=true&theme=radical)
+<div align="center">
+
+| 🔧 **Desenvolvimento PHP** | ⚡ **jQuery & JavaScript** | 🌍 **Acessibilidade Web** |
+|:---:|:---:|:---:|
+| APIs robustas e seguras | Interfaces dinâmicas | Design inclusivo |
+| Integração com bancos | Manipulação DOM | Padrões WCAG |
+| Arquitetura MVC | AJAX e requisições | Testes de usabilidade |
+
+</div>
 
 ---
 
-### ⚡ Let's Connect & Collaborate
+## 🌟 Destaques
 
-Want to collaborate on projects, share ideas, or just chat about tech and accessibility?  
+> 💡 **Projeto de Acessibilidade**: Desenvolvendo soluções para daltonismo  
+> 🚀 **Sempre aprendendo**: Explorando novas tecnologias e frameworks  
+> 🤝 **Colaborativo**: Aberto para projetos e troca de conhecimento  
 
-📧 **Email**: jvf.souza@unesp.br  
-🔗 **LinkedIn**: [João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)  
-💻 **GitHub**: Follow me for more projects and contributions  
+---
 
-*Always excited to connect with fellow developers, learn new technologies, and contribute to meaningful projects!* 🚀
+## 📬 Vamos Conversar!
+
+<div align="center">
+
+**Interessado em colaborar, trocar ideias ou apenas bater um papo sobre tecnologia?**
+
+📧 **jvf.souza@unesp.br**  
+🔗 **[LinkedIn - João Souza](https://www.linkedin.com/in/jo%C3%A3o-souza-2b5498200/)**  
+
+*Sempre animado para conectar com outros desenvolvedores e contribuir para projetos significativos!* ⭐
+
+</div>
+
+---
+
+<div align="center">
+<i>🚀 Construindo o futuro, uma linha de código por vez!</i>
+</div>
